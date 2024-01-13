@@ -1,4 +1,4 @@
-  <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"  height="360px" width="100%">
+  <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"  height="310px" width="100%">
 <h1 align="center">Hi 👋, I'm Aman Waikar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
