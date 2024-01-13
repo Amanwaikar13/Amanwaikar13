@@ -1,13 +1,16 @@
+  <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"  height="360px" width="100%">
 <h1 align="center">Hi 👋, I'm Aman Waikar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React-native**
+- **🏫 Savitribai Phule Pune University 🎓**
+
+- **📚** I’m currently learning **React-native**
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **amanwaikar13@gmail.com**
+- **😉** Fun fact **I like Singing but Worst Singer**
+  
 
-- ⚡ Fun fact **Like Singing but Worst singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
