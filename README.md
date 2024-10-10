@@ -74,7 +74,7 @@
     </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
+      <br>Redux
     </td>
   </tr>
   <tr>
